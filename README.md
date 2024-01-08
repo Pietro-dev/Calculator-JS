@@ -24,6 +24,11 @@ O *error theme* está presente tanto no *dark* como no *light theme*
 ![HTML5](https://img.shields.io/badge/HTML5-html?logo=html5&labelColor=FFF6F6&color=FF7B2F)
 ![CSS3](https://img.shields.io/badge/CSS3-css3?logo=css3&labelColor=5BA5FF&color=DBE4FF)
 
+# Como executar o projeto
+Para ultilizar e testar o app, basta baixar a pasta "calsjs"...
+<br>
+Feito isso, clique no arquivo "index.html" e abra ele com o navegador.
+
 # Lições Aprendidas 
 Neste projeto eu coloquei no papel, na IDE no caso, alguns conceitos que estava estudando. Consequentemente, pude perceber que as dúvidas surgem aos montes na hora de criar um programa...
 Mas isso apenas me motivou a estudar mais para eliminar essas dúvidas e criar programas mais complexos futuramente. 
