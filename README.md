@@ -16,9 +16,16 @@ Também existe uma cor diferente para mostar que um erro aconteceu.
 ![Imagem do tema claro](https://github.com/Pietro-Martins-Marques/Calculator-JS/blob/main/assets/light-theme.png)
 
 ## Error Theme
+O *error theme* está presente tanto no *dark* como no *light theme*
 ![](https://github.com/Pietro-Martins-Marques/Calculator-JS/blob/main/assets/error-theme.png)
 
 # Tecnologias Usadas
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-js?logo=javascript&labelColor=414141&color=FACB48)
 ![HTML5](https://img.shields.io/badge/HTML5-html?logo=html5&labelColor=FFF6F6&color=FF7B2F)
 ![CSS3](https://img.shields.io/badge/CSS3-css3?logo=css3&labelColor=5BA5FF&color=DBE4FF)
+
+# Lições Aprendidas 
+Neste projeto eu coloquei no papel, na IDE no caso, alguns conceitos que estava estudando. Consequentemente, pude perceber que as dúvidas surgem aos montes na hora de criar um programa...
+Mas isso apenas me motivou a estudar mais para eliminar essas dúvidas e criar programas mais complexos futuramente. 
+<br>
+A ideia desse app, por ser um dos meus primeiros projetos, não era ser um programa extremamente complicado de se fazer, mas sim algo de certa forma simples para que fosse possível consolidar alguns conceitos básicos e fixa-los. Neste projeto pude trabalhar a manipulação do DOM, trabalhar os conceitos de *flexbox* e *grid* do CSS3, além de praticar também estilização de páginas. No JavaScript, além de manipular o DOM, eu também apliquei conceitos lógicos para criar uma melhor estrutura do código, assim como criei algumas funções para evitar repetições desnecessárias
