@@ -15,6 +15,9 @@ Também existe uma cor diferente para mostar que um erro aconteceu.
 ## Light Theme
 ![Imagem do tema claro](https://github.com/Pietro-Martins-Marques/Calculator-JS/blob/main/assets/light-theme.png)
 
+## Error Theme
+![](https://github.com/Pietro-Martins-Marques/Calculator-JS/blob/main/assets/error-theme.png)
+
 # Tecnologias Usadas
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-js?logo=javascript&labelColor=414141&color=FACB48)
 ![HTML5](https://img.shields.io/badge/HTML5-html?logo=html5&labelColor=FFF6F6&color=FF7B2F)
